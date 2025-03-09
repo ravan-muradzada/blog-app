@@ -1,0 +1,1 @@
+In this directory the images for posts are saved.
